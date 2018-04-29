@@ -123,7 +123,7 @@ t = 0
 for i in range(1000):
     if results[i][0][2][:3] == test_d[i][2][:3]:  # We only compare the first 3 digits of the zipcode
         t += 1
-print('Accuracy for naiveNN: ', end = '')
+print('Accuracy for kdtree: ', end = '')
 print(t/1000.0)
 print('Running time for kdtree: ', end = '')
 print(time_for_kdtree)
