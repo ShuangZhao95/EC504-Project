@@ -1,0 +1,95 @@
+r= 5b= 1
+hashing
+clustering
+the purity is 0.3015114469882196
+the CCR is 0.3203592814371258
+r= 10b= 1
+hashing
+clustering
+the purity is 0.3765281173594132
+the CCR is 0.35728542914171657
+r= 15b= 1
+hashing
+clustering
+the purity is 0.40431206934874414
+the CCR is 0.3972055888223553
+r= 20b= 1
+hashing
+clustering
+the purity is 0.31662591687041564
+the CCR is 0.31137724550898205
+r= 25b= 1
+hashing
+clustering
+the purity is 0.15436763725272282
+the CCR is 0.15768463073852296
+r= 5b= 2
+hashing
+clustering
+the purity is 0.3112913980884641
+the CCR is 0.2884231536926148
+r= 10b= 2
+hashing
+clustering
+the purity is 0.4563236274727717
+the CCR is 0.4441117764471058
+r= 15b= 2
+hashing
+clustering
+the purity is 0.5341186930428984
+the CCR is 0.5439121756487026
+r= 20b= 2
+hashing
+clustering
+the purity is 0.43687486108024004
+the CCR is 0.4630738522954092
+r= 25b= 2
+hashing
+clustering
+the purity is 0.33996443654145364
+the CCR is 0.3333333333333333
+r= 5b= 4
+hashing
+clustering
+the purity is 0.3537452767281618
+the CCR is 0.36726546906187624
+r= 10b= 4
+hashing
+clustering
+the purity is 0.5073349633251834
+the CCR is 0.5239520958083832
+r= 15b= 4
+hashing
+clustering
+the purity is 0.5543454100911314
+the CCR is 0.5568862275449101
+r= 20b= 4
+hashing
+clustering
+the purity is 0.5605690153367415
+the CCR is 0.5578842315369261
+r= 25b= 4
+hashing
+clustering
+the purity is 0.48110691264725497
+the CCR is 0.46506986027944114
+r= 5b= 8
+hashing
+clustering
+the purity is 0.33340742387197153
+the CCR is 0.3273453093812375
+r= 10b= 8
+hashing
+clustering
+the purity is 0.5541231384752168
+the CCR is 0.5598802395209581
+r= 15b= 8
+hashing
+clustering
+the purity is 0.6250277839519893
+the CCR is 0.6237524950099801
+r= 20b= 8
+hashing
+clustering
+the purity is 0.6424761058012892
+the CCR is 0.6586826347305389
