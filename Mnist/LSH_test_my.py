@@ -2,7 +2,7 @@
 #author: Fei Chen
 #date: 4.40.2018
 #group members: John Curci, Shuang Zhao
-import csv
+# import csv
 import sys
 import numpy as np
 from scipy import stats
